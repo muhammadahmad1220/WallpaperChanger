@@ -580,7 +580,7 @@ FILTER = splitContents[4]
 window.loadSettings()
 
 window.show()
-window.start_porgram() #-----------------------------------------------Starts on opening-----------------------------------------------
+# window.start_porgram() #-----------------------------------------------Starts on opening-----------------------------------------------
 
 sys.exit(app.exec_())	
 
